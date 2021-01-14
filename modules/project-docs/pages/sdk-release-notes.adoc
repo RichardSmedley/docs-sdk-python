@@ -41,6 +41,8 @@ There are binary Python wheels provided for Windows.
 
 == Version 3.0.8 (13 January 2021)
 
+Version 3.0.6 is the ninth release of the 3.0 series, bringing enhancements and bug fixes over the last stable release.
+
 [source,bash]
 ----
 $ python3 -m pip install couchbase==3.0.8
@@ -76,6 +78,8 @@ KV and Query latency are ~30% higher than SDK 2.x _with external libcouchbase in
 
 
 == Version 3.0.7 (8 December 2020)
+
+Version 3.0.6 is the eighth release of the 3.0 series, bringing enhancements and bug fixes over the last stable release.
 
 [source,bash]
 ----
